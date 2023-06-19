@@ -92,7 +92,7 @@ USVFunction usv;
   IPAddress secondaryDNS(8, 8, 4, 4); //optional
 
 
-// READ BATTERY VAOLTAGE
+// READ BATTERY VOLTAGE
   const int voltage_pin = A0;
   float voltage_bat = 0;
   
